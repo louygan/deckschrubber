@@ -44,6 +44,10 @@ We run our own private registry on a server with limited storage and it was only
 -v    shows version and quits
 -year int
       max age in days
+-user string
+      Username for basic authentication
+-password string
+      Password for basic authentication
       
       
 ```
